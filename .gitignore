@@ -1,0 +1,5 @@
+# dependencies
+/backend/node_modules
+
+# make sure to uncomment .env if you are using it.
+.env
